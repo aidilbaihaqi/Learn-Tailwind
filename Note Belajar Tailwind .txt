@@ -1,4 +1,4 @@
 Note Belajar Tailwind: 
-1. npm init (untuk menginisialisasi folder dan membuat package.json)
+1. npm init -y (untuk menginisialisasi folder dan membuat package.json)
 2. npm install -D tailwindcss (download package tailwind)
 3. npx tailwindcss init (mengonfigurasikan tailwind dengan folder kita pada package.json dan create new tailwind.config.js file)
